@@ -3,7 +3,7 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SH13IELD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="sh13ield" alt="sh13ield" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SH13IELD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 
@@ -39,22 +39,8 @@
  
 <code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
-<code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
-<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
-<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
-
 
 <!-- ##### WILL WORK ON THIS LATER ##### -->
 
@@ -117,30 +103,6 @@
 
 
 
- <!-- ###### Some of my projects ##### -->
-
-<details> 
- <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-  <br/>
-
-  <p align="left">
-  <a href="https://github.com/sh13ield/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sh13ield&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/sh13ield/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sh13ield&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/sh13ield/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sh13ield&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/sh13ield/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sh13ield&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
-  
-  </p>
-
- <p align="left">
-  <a href="https://github.com/sh13ield?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-</details>
-
-<!-- ###### END OF Some of my projects  ##### -->
 
 
 
@@ -184,15 +146,10 @@
 
 <!-- ###### SOCIAL MEDIA LINKS ##### -->
 
-<h4 align="center">
- 
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
-</h4>
 
 <p align="center">
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
- <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+ <a href="https://www.instagram.com/sh13ield" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://twitter.com/sh13ield"_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
 
@@ -203,15 +160,11 @@
 
 <!-- ###### FOOTER ##### -->
 
-<h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/sh13ield"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>
 
 
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="sh13ield" alt="sh13ield"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
