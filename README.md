@@ -78,29 +78,6 @@
 
 
 
-<!-- ###### Currently Learning ##### -->
-
-<h4 align="left">
-📖 Currently Learning 📖 
- </h4>
-
-
-<code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
-<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
-
-
-
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
-
-<br />
-
-
-<!-- ###### END OF Currently Learning ##### -->
-
-
-
 
 
 
