@@ -3,24 +3,18 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SH13IELD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
-<p align="center">
-<a href="https://nemonet-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
- <p align="center">
-  <a href="https://sh13ield.github.io/sh13ield/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://sh13ield.github.io/sh13ield/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://sh13ield.github.io/sh13ield/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
-  </p>
+
+
 
   
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sh13ield&label=Visitors&color=0e75b6&style=flat" alt="sh13ield" /> <img src="https://img.shields.io/github/followers/sh13ield?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
  <a href="https://github.com/sh13ield?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sh13ield"/></a>
- <a href="mailto:the.young.programmer.team@gmail.com">
+ <a href="mailto:shield13h@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
